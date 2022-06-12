@@ -1,0 +1,3 @@
+C:\Users\manasa\source\repos\HFT\HFT.Console\obj\Debug\HFT.Console.csproj.AssemblyReference.cache
+C:\Users\manasa\source\repos\HFT\HFT.Console\obj\Debug\HFT.Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\manasa\source\repos\HFT\HFT.Console\obj\Debug\HFT.Console.csproj.CoreCompileInputs.cache
