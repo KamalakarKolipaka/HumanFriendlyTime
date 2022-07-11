@@ -1,6 +1,0 @@
-C:\Users\manasa\source\repos\HFT\HFT.Utility\bin\Debug\HFT.Utility.dll
-C:\Users\manasa\source\repos\HFT\HFT.Utility\bin\Debug\HFT.Utility.pdb
-C:\Users\manasa\source\repos\HFT\HFT.Utility\obj\Debug\HFT.Utility.csproj.AssemblyReference.cache
-C:\Users\manasa\source\repos\HFT\HFT.Utility\obj\Debug\HFT.Utility.csproj.CoreCompileInputs.cache
-C:\Users\manasa\source\repos\HFT\HFT.Utility\obj\Debug\HFT.Utility.dll
-C:\Users\manasa\source\repos\HFT\HFT.Utility\obj\Debug\HFT.Utility.pdb

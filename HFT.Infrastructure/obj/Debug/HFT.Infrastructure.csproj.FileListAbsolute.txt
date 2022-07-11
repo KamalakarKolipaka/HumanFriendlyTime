@@ -1,9 +1,0 @@
-C:\Users\manasa\source\repos\HFT\HFT.Infrastructure\bin\Debug\HFT.Infrastructure.dll
-C:\Users\manasa\source\repos\HFT\HFT.Infrastructure\bin\Debug\HFT.Infrastructure.pdb
-C:\Users\manasa\source\repos\HFT\HFT.Infrastructure\bin\Debug\HFT.Utility.dll
-C:\Users\manasa\source\repos\HFT\HFT.Infrastructure\bin\Debug\HFT.Utility.pdb
-C:\Users\manasa\source\repos\HFT\HFT.Infrastructure\obj\Debug\HFT.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\manasa\source\repos\HFT\HFT.Infrastructure\obj\Debug\HFT.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\manasa\source\repos\HFT\HFT.Infrastructure\obj\Debug\HFT.Infrastructure.csproj.CopyComplete
-C:\Users\manasa\source\repos\HFT\HFT.Infrastructure\obj\Debug\HFT.Infrastructure.dll
-C:\Users\manasa\source\repos\HFT\HFT.Infrastructure\obj\Debug\HFT.Infrastructure.pdb

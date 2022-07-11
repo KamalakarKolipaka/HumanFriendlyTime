@@ -1,0 +1,12 @@
+C:\KAMAL\Aquovia_Items\ToDoItems\ToDoItems.Core\bin\Debug\net6.0\ToDoItems.Core.deps.json
+C:\KAMAL\Aquovia_Items\ToDoItems\ToDoItems.Core\bin\Debug\net6.0\ToDoItems.Core.dll
+C:\KAMAL\Aquovia_Items\ToDoItems\ToDoItems.Core\bin\Debug\net6.0\ToDoItems.Core.pdb
+C:\KAMAL\Aquovia_Items\ToDoItems\ToDoItems.Core\obj\Debug\net6.0\ToDoItems.Core.csproj.AssemblyReference.cache
+C:\KAMAL\Aquovia_Items\ToDoItems\ToDoItems.Core\obj\Debug\net6.0\ToDoItems.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\KAMAL\Aquovia_Items\ToDoItems\ToDoItems.Core\obj\Debug\net6.0\ToDoItems.Core.AssemblyInfoInputs.cache
+C:\KAMAL\Aquovia_Items\ToDoItems\ToDoItems.Core\obj\Debug\net6.0\ToDoItems.Core.AssemblyInfo.cs
+C:\KAMAL\Aquovia_Items\ToDoItems\ToDoItems.Core\obj\Debug\net6.0\ToDoItems.Core.csproj.CoreCompileInputs.cache
+C:\KAMAL\Aquovia_Items\ToDoItems\ToDoItems.Core\obj\Debug\net6.0\ToDoItems.Core.dll
+C:\KAMAL\Aquovia_Items\ToDoItems\ToDoItems.Core\obj\Debug\net6.0\refint\ToDoItems.Core.dll
+C:\KAMAL\Aquovia_Items\ToDoItems\ToDoItems.Core\obj\Debug\net6.0\ToDoItems.Core.pdb
+C:\KAMAL\Aquovia_Items\ToDoItems\ToDoItems.Core\obj\Debug\net6.0\ref\ToDoItems.Core.dll
